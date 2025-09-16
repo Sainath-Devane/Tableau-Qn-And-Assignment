@@ -1,73 +1,33 @@
-This repository contains Tableau assignments and supporting datasets used for data visualization, dashboard creation, and analytical insights.
+This repository contains Tableau assignments with datasets for practicing data visualization and dashboard building.
 
-📂 Repository Contents
+📂 Files
 
-netflix_titles.xlsx
-Dataset of Netflix movies and TV shows with details like cast, genre, director, and release year.
+netflix_titles.xlsx → Netflix movies & TV shows dataset
 
-sample_-_superstore.xls
-Classic Superstore dataset widely used for data visualization and analytics exercises.
+sample_-_superstore.xls → Superstore dataset for analysis
 
-TABLEAU ASSIGNMENT.twbx
-Packaged Tableau workbook containing completed solutions for all the assignments.
+TABLEAU ASSIGNMENT.twbx → Tableau workbook with all solutions
 
-Tableau Assignments.docx
-Assignment document describing the tasks, requirements, and expected outputs.
+Tableau Assignments.docx → Assignment instructions
 
-📝 Assignments Overview
+📝 Assignments
 
-Charts & Quick Table Calculations
+Tables & Calculations – Sales & Profit by Category, Sub-category, and Region
 
-Table with Category & Sub-category (rows), Region (columns).
+Data Joins & Filtering – Netflix dataset, top actor in Sports Movies
 
-Sales & Profit with Grand Totals and Percent of Pane Total.
+Histogram – Customer order frequency
 
-Sorted by Sales (descending).
+Sets – Top 50 Customers vs Others (by Sales)
 
-Data Combining Techniques & Filtering
+KPI Cards – Profit, YoY Growth, Monthly Trends
 
-Using Netflix Titles dataset.
+Parameters & Groups – Dynamic bar chart, grouped products
 
-Identify the actor/actress with the highest appearances in Sports Movies.
+Dashboard – Interactive Superstore dashboard with KPIs, filters, and Top 5 Products
 
-LODs & Histogram
+📊 Tools
 
-Histogram of customer order frequency.
+Tableau Desktop
 
-Sets
-
-Pie chart comparing Top 50 Customers vs Other Customers by Sales.
-
-Custom Visuals: KPI Cards & Table Calculations
-
-KPI Card for Profit (last year).
-
-Year-over-Year growth % with ▲/▼ indicators.
-
-Line chart of monthly profit trends.
-
-Parameters & Groups
-
-Parameter-driven bar chart (View By: Region, Category, Sub-Category).
-
-Product groups (Acco, 3M, Samsung, Apple, Xerox, Others) with Avg. Discount.
-
-Dashboard (Sample Superstore Data)
-
-Two-pane dashboard with logo, filters (Year & Region), and dynamic visuals.
-
-Includes KPIs: Profit Margin, Return Rate, and # Orders.
-
-Metric parameter (Sales, Profit, Orders).
-
-Top 5 Products always displayed.
-
-
-📊 Tools & Technologies
-
-Tableau Desktop (visualizations, dashboards, KPI cards).
-
-Excel (XLS/XLSX) (data preparation and source files).
-Filter actions for interactivity.
-
-Clickable logo linking to Tableau Public.
+Excel (datasets)
